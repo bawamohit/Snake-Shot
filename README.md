@@ -16,3 +16,4 @@ Controls:
 - Press 'k' to move right
 - Press 'x' to shoot
 
+![SNAKE GIF](snake.gif)
