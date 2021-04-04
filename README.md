@@ -6,7 +6,7 @@ A retro style game made in MIPS assembly language. Inspired by the 1980s centipe
 
 Shoot the snake 3 times to win and go to the next level.
 
-You can also shoot the purple mushrooms or the red mushroom bombs that fall from the sky.
+You can also shoot the purple mushrooms or the red bombs that fall from the sky.
 
 Don't get eaten, and don't get blown up!
 
